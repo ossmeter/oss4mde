@@ -1,4 +1,4 @@
-Software Analytics for MDE Communities - Dataset
+Software Analytics for MDE Communities (Dataset)
 =================================================
 
 This project hosts the datasets for the following paper submitted at OSS4MDE 2014 workshop (http://flux.cs.queensu.ca/oss4mde/):
